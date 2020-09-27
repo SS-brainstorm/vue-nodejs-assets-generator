@@ -1,0 +1,5 @@
+# ignore service folders
+.idea
+.phpstorm
+.vscode
+node_modules
